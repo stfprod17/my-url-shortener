@@ -1,4 +1,4 @@
-# my-url-shortener
+# My-Url-Shortener
 A small link shortening service written in Go. It generates short URLs, stores them in a database, and tracks clicks.
 
 ## Functional
